@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "1",
+    "title": "🎵 Moda Sahili Canlı Müzik",
+    "city": "İstanbul",
+    "time": "20:00",
+    "place": "Moda Parkı",
+    "desc": "Açık havada canlı müzik keyfi.",
+    "organizer": "Kadıköy Belediyesi",
+    "price": "150 TL",
+    "popularity": 90
+  },
+  {
+    "id": "2",
+    "title": "🎭 Açık Hava Tiyatro Festivali",
+    "city": "İzmir",
+    "time": "19:30",
+    "place": "Kordon",
+    "desc": "Ünlü tiyatrocularla açık hava gösterisi.",
+    "organizer": "İzmir Belediyesi",
+    "price": "100 TL",
+    "popularity": 80
+  }
+]
